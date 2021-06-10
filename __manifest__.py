@@ -28,6 +28,7 @@
         'views/menu.xml',
         'views/informacion.xml',
         'views/templates.xml',
+        'views/suceso.xml',
     ],
     # only loaded in demonstration mode
     'demo': [

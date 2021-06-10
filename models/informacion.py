@@ -8,7 +8,7 @@ class odoo_basico(models.Model):
      _description = 'Exemplo basico'
 
      name = fields.Char(string="Odoo basico:")
-
+     autorizado = fields.Boolean(string="¿Autorizado?", default=True)
 
 
 #     value = fields.Integer()
