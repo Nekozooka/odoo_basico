@@ -8,6 +8,9 @@ class odoo_basico(models.Model):
      _description = 'Exemplo basico'
 
      name = fields.Char(string="Odoo basico:")
+
+
+
 #     value = fields.Integer()
 #     value2 = fields.Float(compute="_value_pc", store=True)
 #     description = fields.Text()
